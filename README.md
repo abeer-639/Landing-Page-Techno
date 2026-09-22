@@ -6,6 +6,8 @@ The project focuses on creating a clean and modern user interface with carefully
 
 > **Techno is a frontend-only landing page. It does not include backend logic, database integration, authentication, or complex business logic.**
 
+live demo : https://landing-page-technology.netlify.app/
+
 ---
 
 ## ✨ Project Overview
